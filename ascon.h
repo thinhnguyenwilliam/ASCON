@@ -1,3 +1,4 @@
+//Huy dep trai
 #include <stdint.h>
 
 #define KEY_LEN 16U             // Length of key is 128 bits (16 bytes)
